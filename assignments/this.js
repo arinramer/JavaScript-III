@@ -2,7 +2,7 @@
 * in your own words. explain the four principle for the "this" keyword below.
 *
 * 1. Window binding: the this keyword binds to the window object
-* 2. Implicit binding: when a function is invoked it looks to the left of the dot.
+* 2. Implicit binding: when a function is invoked it looks to the left of the dot. This is the most common.
 * 3. New binding: uses the 'new' keyword to create a new object
 * 4. Explicit binding: tells javascript to point to a certain value using call, apply or bind.
 *
